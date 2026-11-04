@@ -31,3 +31,7 @@ Article Creatorは製品中立Patternのみを利用する。既存記事のBefo
 ## v3.0 compatibility mapping
 
 Creator may consume confidence, source, contradiction, preservation, and learning-promotion rules. Temporal lifecycle recovery is used only when a new article covers a time-sensitive subject; it does not change Creator's new-article-only identity.
+
+## Reading device policy
+
+Apply `knowledge/reading-device-editorial-policy.md` using the SBM-provided `reading_device_policy` value. Missing or invalid values fall back to `BALANCED`. New articles: adapt structure and presentation without weakening factual completeness.

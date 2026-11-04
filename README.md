@@ -1,4 +1,4 @@
-# Shared Knowledge v3.6.0
+# Shared Knowledge v3.6.1
 
 SIMS Editorial PlatformのKnowledge and Contract Planeであり、共通Contract、Enum、編集知識、Validation、製品責務境界の唯一の正本です。
 
@@ -40,7 +40,7 @@ snapshots/      Product-scoped Snapshot定義
 
 ## Version
 
-`3.6.0`
+`3.6.1`
 
 Platform compatibility: `SIMS Editorial Platform 1.x`
 
@@ -48,3 +48,7 @@ Platform compatibility: `SIMS Editorial Platform 1.x`
 ## Human Experience / Presentation
 
 `presentation/` defines the common Human Experience Architecture for SIMS Manager, aDoctor, aWriter, aCreator, and aMerge. Machine contracts remain detailed; human-facing output must be actionable and must follow the Presentation Standard.
+
+## Reading device editorial policy
+
+`knowledge/reading-device-editorial-policy.md` and `policies/reading-device-policy-contract.md` define the site-level three-mode editorial preference and safe fallback. Product-scoped integrations must explicitly consume the released policy; updating Shared alone does not change installed Claude projects.

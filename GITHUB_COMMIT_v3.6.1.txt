@@ -1,0 +1,1 @@
+feat(shared): define reading device editorial policy and safe defaults (v3.6.1)

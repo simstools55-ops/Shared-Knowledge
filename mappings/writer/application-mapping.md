@@ -84,3 +84,7 @@ Writer must load `KS-SHARED-TEMPORAL` when date-sensitive, event-based, deadline
 ## Revenue First Validation v3.1.0
 
 Writer must load `product/revenue-first-validation-principle.md` and `validation/revenue-first-validation.md` before final publication classification. `patterns/intent-drift-cross-link-pattern.md` remains a PATTERN_CANDIDATE until a second independent real-article confirmation.
+
+## Reading device policy
+
+Apply `knowledge/reading-device-editorial-policy.md` using the SBM-provided `reading_device_policy` value. Missing or invalid values fall back to `BALANCED`. Existing articles: only evidence-backed, scoped improvements; never rewrite solely because the site preference changed.

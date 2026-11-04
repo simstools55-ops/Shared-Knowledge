@@ -1,3 +1,9 @@
+## 3.6.1 — Reading Device Editorial Policy
+
+- Added MOBILE_FIRST / DESKTOP_FIRST / BALANCED shared editorial policy and compatibility contract.
+- Added Writer and Creator application mapping references.
+- Preserved existing article/monitoring state and publication approval boundaries.
+
 # Changelog
 
 ## 3.6.0 - 2026-08-30
