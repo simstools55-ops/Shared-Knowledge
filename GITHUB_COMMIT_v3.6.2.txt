@@ -1,0 +1,1 @@
+feat(shared): add mobile story style and independent emoji policy (v3.6.2)

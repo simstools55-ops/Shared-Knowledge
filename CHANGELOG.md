@@ -1,3 +1,7 @@
+## v3.6.2 — MOBILE_STORY and emoji policy
+
+Adds fourth reading style and independent emoji preferences; backwards-compatible defaults.
+
 ## 3.6.1 — Reading Device Editorial Policy
 
 - Added MOBILE_FIRST / DESKTOP_FIRST / BALANCED shared editorial policy and compatibility contract.

@@ -1,6 +1,6 @@
 {
   "package": "SIMS-Shared-Editorial-Knowledge",
-  "version": "3.6.1",
+  "version": "3.6.2",
   "files": [
     {
       "path": ".gitignore",
@@ -23,7 +23,7 @@
       "size": 47381
     },
     {
-      "path": "GITHUB_COMMIT_v3.6.1.txt",
+      "path": "GITHUB_COMMIT_v3.6.2.txt",
       "sha256": "08ab0ca907786607d391898af9520bf9137a4db7f57818e0b2282bad74eb2263",
       "size": 80
     },
@@ -243,7 +243,7 @@
       "size": 757
     },
     {
-      "path": "RELEASE_NOTES_v3.6.1.md",
+      "path": "RELEASE_NOTES_v3.6.2.md",
       "sha256": "7a3c95961d7a895c808b0d50e8dd59e92a7474b7dfae6e77462b21765730b101",
       "size": 325
     },

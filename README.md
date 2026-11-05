@@ -1,3 +1,7 @@
+## v3.6.2 — MOBILE_STORY and emoji policy
+
+Adds fourth reading style and independent emoji preferences; backwards-compatible defaults.
+
 # Shared Knowledge v3.6.1
 
 SIMS Editorial PlatformのKnowledge and Contract Planeであり、共通Contract、Enum、編集知識、Validation、製品責務境界の唯一の正本です。

@@ -1,3 +1,7 @@
+## v3.6.2 — MOBILE_STORY and emoji policy
+
+Adds fourth reading style and independent emoji preferences; backwards-compatible defaults.
+
 # Platform Compatibility Matrix
 
 | Platform | SBM | Writer | Creator | Doctor | Merge | Shared |
