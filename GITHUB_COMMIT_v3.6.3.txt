@@ -1,0 +1,1 @@
+feat(shared): enforce 24-character semantic prose lines for MOBILE_STORY (v3.6.3)
