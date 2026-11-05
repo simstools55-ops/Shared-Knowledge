@@ -1,4 +1,4 @@
-## v3.6.3 — MOBILE_STORY 24-character prose lines
+## v3.6.4 — MOBILE_STORY 24-character prose lines
 - Semantic line breaks and paragraph spacing, exceptions for technical strings.
 
 ## v3.6.2 — MOBILE_STORY and emoji policy

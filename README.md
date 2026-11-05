@@ -1,4 +1,4 @@
-## v3.6.3 — MOBILE_STORY and emoji policy
+## v3.6.4 — MOBILE_STORY and emoji policy
 
 Adds fourth reading style and independent emoji preferences; backwards-compatible defaults.
 
